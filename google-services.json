@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249822053125",
+    "project_id": "filezzh",
+    "storage_bucket": "filezzh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249822053125:android:66c79b99cb1a1e02e1ed6c",
+        "android_client_info": {
+          "package_name": "com.neuronlabs.warhorse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9qatrrtbEkdmwJOgbODBSLjCjLArhcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
